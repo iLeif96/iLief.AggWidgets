@@ -82,7 +82,7 @@ namespace iLeif.CustomAggWidgets.Widgets.Views
 					_animation.Stop();
 				}
 
-				Vector2 deltaPosition = (mouseEvent.Position - _lastMousePositions.Peek());
+				Vector2 deltaPosition = (mouseEvent.Position - _lastMousePositions.Iterate().Last());
 
 				OnTranslate(deltaPosition);
 			}
@@ -117,7 +117,7 @@ namespace iLeif.CustomAggWidgets.Widgets.Views
 			var deltaTime = UiThread.CurrentTimerMs - _timeFromLastMove;
 			if (deltaTime < _timeForIdle)
 			{
-				var pArr = _lastMousePositions.ToList();
+				var pArr = _lastMousePositions.Iterate().ToList();
 				Vector2 deltaPosition = (pArr[pArr.Count - 1] - pArr[pArr.Count - 2]);
 				double speed = deltaPosition.Length / deltaTime;
 				deltaPosition.Normalize();

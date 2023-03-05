@@ -73,3 +73,11 @@ C:\Programming\Slicing\ApisCad\ApisCor\Utils\iLeif.CustomAggWidgets\obj\Release\
 C:\Programming\Slicing\ApisCad\ApisCor\Utils\iLeif.CustomAggWidgets\bin\Release\net6.0-windows\System.IO.Packaging.dll
 C:\Programming\Slicing\ApisCad\ApisCor\Utils\iLeif.CustomAggWidgets\bin\Release\net6.0-windows\Clipper.dll
 C:\Programming\Slicing\ApisCad\ApisCor\Utils\iLeif.CustomAggWidgets\bin\Release\net6.0-windows\Clipper.pdb
+C:\Programming\LibsToGitHub\AggWidgets\iLief.AggWidgets\obj\Release\net6.0-windows\iLeif.CustomAggWidgets.csproj.AssemblyReference.cache
+C:\Programming\LibsToGitHub\AggWidgets\iLief.AggWidgets\obj\Release\net6.0-windows\iLeif.CustomAggWidgets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\LibsToGitHub\AggWidgets\iLief.AggWidgets\obj\Release\net6.0-windows\iLeif.CustomAggWidgets.AssemblyInfoInputs.cache
+C:\Programming\LibsToGitHub\AggWidgets\iLief.AggWidgets\obj\Release\net6.0-windows\iLeif.CustomAggWidgets.AssemblyInfo.cs
+C:\Programming\LibsToGitHub\AggWidgets\iLief.AggWidgets\obj\Release\net6.0-windows\iLeif.CustomAggWidgets.csproj.CoreCompileInputs.cache
+C:\Programming\LibsToGitHub\AggWidgets\iLief.AggWidgets\obj\Release\net6.0-windows\iLeif.CustomAggWidgets.dll
+C:\Programming\LibsToGitHub\AggWidgets\iLief.AggWidgets\obj\Release\net6.0-windows\refint\iLeif.CustomAggWidgets.dll
+C:\Programming\LibsToGitHub\AggWidgets\iLief.AggWidgets\obj\Release\net6.0-windows\iLeif.CustomAggWidgets.pdb

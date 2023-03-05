@@ -4,3 +4,5 @@
 [submodule "Submodules/iLeif.Extensions"]
 	path = Submodules/iLeif.Extensions
 	url = https://github.com/iLeif96/iLeif.Extensions.git
+[submodule ".\\Submodules\\agg-sharp\\"]
+	url = https://github.com/iLeifProd/agg-sharp.git

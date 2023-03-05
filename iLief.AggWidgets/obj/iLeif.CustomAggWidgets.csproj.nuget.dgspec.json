@@ -158,6 +158,227 @@
         }
       }
     },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\clipper_library\\clipper_library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\clipper_library\\clipper_library.csproj",
+        "projectName": "agg_clipper_library",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\clipper_library\\clipper_library.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\clipper_library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Csg\\Csg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Csg\\Csg.csproj",
+        "projectName": "MatterHackers.Csg",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Csg\\Csg.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Csg\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\PolygonMesh\\PolygonMesh.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\PolygonMesh\\PolygonMesh.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj",
+        "projectName": "DataConverters2D",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\clipper_library\\clipper_library.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\clipper_library\\clipper_library.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Tesselate\\Tesselate.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Tesselate\\Tesselate.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters3D\\DataConverters3D.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -224,6 +445,344 @@
               "version": "[7.0.0, )"
             },
             "System.IO.Packaging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\geometry3Sharp\\geometry3Sharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\geometry3Sharp\\geometry3Sharp.csproj",
+        "projectName": "geometry3Sharp",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\geometry3Sharp\\geometry3Sharp.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\geometry3Sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\GuiAutomation\\GuiAutomation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\GuiAutomation\\GuiAutomation.csproj",
+        "projectName": "GuiAutomation",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\GuiAutomation\\GuiAutomation.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\GuiAutomation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Gui\\Gui.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Gui\\Gui.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Gui\\Gui.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Gui\\Gui.csproj",
+        "projectName": "Gui",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Gui\\Gui.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Gui\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\ImageProcessing\\ImageProcessing.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\ImageProcessing\\ImageProcessing.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Localizations\\Localizations.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Localizations\\Localizations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\ImageProcessing\\ImageProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\ImageProcessing\\ImageProcessing.csproj",
+        "projectName": "MatterHackers.Agg.ImageProcessing",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\ImageProcessing\\ImageProcessing.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\ImageProcessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Localizations\\Localizations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Localizations\\Localizations.csproj",
+        "projectName": "Localizations",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Localizations\\Localizations.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Localizations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.0.0, )"
             }
@@ -334,6 +893,363 @@
             },
             "Microsoft.WindowsDesktop.App.WindowsForms": {
               "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\PolygonMesh\\PolygonMesh.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\PolygonMesh\\PolygonMesh.csproj",
+        "projectName": "PolygonMesh",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\PolygonMesh\\PolygonMesh.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\PolygonMesh\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\clipper_library\\clipper_library.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\clipper_library\\clipper_library.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\geometry3Sharp\\geometry3Sharp.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\geometry3Sharp\\geometry3Sharp.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\QuadTree\\QuadTree.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\QuadTree\\QuadTree.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MIConvexHull": {
+              "target": "Package",
+              "version": "[1.1.19.1019, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\QuadTree\\QuadTree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\QuadTree\\QuadTree.csproj",
+        "projectName": "QuadTree",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\QuadTree\\QuadTree.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\QuadTree\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\clipper_library\\clipper_library.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\clipper_library\\clipper_library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "KdTree": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\RenderOpenGl\\RenderOpenGl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\RenderOpenGl\\RenderOpenGl.csproj",
+        "projectName": "RenderOpenGl",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\RenderOpenGl\\RenderOpenGl.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\RenderOpenGl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\agg\\Agg.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Csg\\Csg.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Csg\\Csg.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\DataConverters2D\\DataConverters2D.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\PolygonMesh\\PolygonMesh.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\PolygonMesh\\PolygonMesh.csproj"
+              },
+              "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj": {
+                "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Tesselate\\Tesselate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Tesselate\\Tesselate.csproj",
+        "projectName": "Tesselate",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Tesselate\\Tesselate.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Tesselate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Typography\\Typography.One\\Typography.One.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Typography\\Typography.One\\Typography.One.csproj",
+        "projectName": "Typography.One",
+        "projectPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Typography\\Typography.One\\Typography.One.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\Typography\\Typography.One\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Programming\\LibsToGitHub\\AggWidgets\\Submodules\\agg-sharp\\NuGet.Config",
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"

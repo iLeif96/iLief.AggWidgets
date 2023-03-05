@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = iLeif.CustomAggWidgets
-build_property.ProjectDir = C:\Programming\Slicing\ApisCad\ApisCor\Utils\iLeif.CustomAggWidgets\
+build_property.ProjectDir = C:\Programming\LibsToGitHub\AggWidgets\iLief.AggWidgets\
