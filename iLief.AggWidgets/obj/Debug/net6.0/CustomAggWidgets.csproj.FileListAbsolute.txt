@@ -1,5 +1,0 @@
-C:\Programming\Slicing\ApisCad\ApisCor\Utils\CustomAggWidgets\obj\Debug\net6.0\CustomAggWidgets.csproj.AssemblyReference.cache
-C:\Programming\Slicing\ApisCad\ApisCor\Utils\CustomAggWidgets\obj\Debug\net6.0\CustomAggWidgets.GeneratedMSBuildEditorConfig.editorconfig
-C:\Programming\Slicing\ApisCad\ApisCor\Utils\CustomAggWidgets\obj\Debug\net6.0\CustomAggWidgets.AssemblyInfoInputs.cache
-C:\Programming\Slicing\ApisCad\ApisCor\Utils\CustomAggWidgets\obj\Debug\net6.0\CustomAggWidgets.AssemblyInfo.cs
-C:\Programming\Slicing\ApisCad\ApisCor\Utils\CustomAggWidgets\obj\Debug\net6.0\CustomAggWidgets.csproj.CoreCompileInputs.cache
