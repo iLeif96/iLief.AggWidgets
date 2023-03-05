@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Programming\\Slicing\\ApisCad\\Submodules\\gsSlicer\\gsSlicer.csproj": {}
+  },
+  "projects": {
+    "C:\\Programming\\Slicing\\ApisCad\\Submodules\\gsSlicer\\gsSlicer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\gsSlicer\\gsSlicer.csproj",
+        "projectName": "iLeif.CustomAggWidgets",
+        "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\gsSlicer\\gsSlicer.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\Slicing\\ApisCad\\ApisCor\\Utils\\iLeif.CustomAggWidgets\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Programming\\Slicing\\ApisCad\\Submodules\\iLeif.Extensions\\iLeif.Extensions.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\iLeif.Extensions\\iLeif.Extensions.csproj"
+              },
+              "C:\\Programming\\Slicing\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\Submodules\\agg-sharp\\agg\\Agg.csproj"
+              },
+              "C:\\Programming\\Slicing\\Submodules\\agg-sharp\\DataConverters3D\\DataConverters3D.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\Submodules\\agg-sharp\\DataConverters3D\\DataConverters3D.csproj"
+              },
+              "C:\\Programming\\Slicing\\Submodules\\agg-sharp\\Gui\\Gui.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\Submodules\\agg-sharp\\Gui\\Gui.csproj"
+              },
+              "C:\\Programming\\Slicing\\Submodules\\agg-sharp\\PlatformWin32\\PlatformWin32.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\Submodules\\agg-sharp\\PlatformWin32\\PlatformWin32.csproj"
+              },
+              "C:\\Programming\\Slicing\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

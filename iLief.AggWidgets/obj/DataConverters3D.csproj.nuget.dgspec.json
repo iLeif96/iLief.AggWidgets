@@ -1,0 +1,364 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\DataConverters3D\\DataConverters3D.csproj": {}
+  },
+  "projects": {
+    "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+      "version": "1.0.20",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\agg\\Agg.csproj",
+        "projectName": "Sutro.geometry3Sharp",
+        "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\agg\\Agg.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\geometry3Sharp\\geometry3Sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\DataConverters3D\\DataConverters3D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\DataConverters3D\\DataConverters3D.csproj",
+        "projectName": "iLeif.CustomAggWidgets",
+        "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\DataConverters3D\\DataConverters3D.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\Slicing\\ApisCad\\ApisCor\\Utils\\iLeif.CustomAggWidgets\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\agg\\Agg.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\agg\\Agg.csproj"
+              },
+              "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\DataConverters3D\\DataConverters3D.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\DataConverters3D\\DataConverters3D.csproj"
+              },
+              "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\Gui\\Gui.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\Gui\\Gui.csproj"
+              },
+              "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\iLeif.Extensions\\iLeif.Extensions.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\iLeif.Extensions\\iLeif.Extensions.csproj"
+              },
+              "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\PlatformWin32\\PlatformWin32.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\PlatformWin32\\PlatformWin32.csproj"
+              },
+              "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj": {
+                "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IO.Packaging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\Gui\\Gui.csproj": {
+      "version": "1.0.20",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\Gui\\Gui.csproj",
+        "projectName": "Sutro.geometry3Sharp",
+        "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\Gui\\Gui.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\geometry3Sharp\\geometry3Sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\PlatformWin32\\PlatformWin32.csproj": {
+      "version": "1.0.20",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\PlatformWin32\\PlatformWin32.csproj",
+        "projectName": "Sutro.geometry3Sharp",
+        "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\PlatformWin32\\PlatformWin32.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\geometry3Sharp\\geometry3Sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.355802, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "OpenTK.GLControl": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj": {
+      "version": "1.0.20",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj",
+        "projectName": "Sutro.geometry3Sharp",
+        "projectPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\agg-sharp\\VectorMath\\VectorMath.csproj",
+        "packagesPath": "C:\\Users\\Светослав\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\Slicing\\ApisCad\\Submodules\\geometry3Sharp\\geometry3Sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Светослав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

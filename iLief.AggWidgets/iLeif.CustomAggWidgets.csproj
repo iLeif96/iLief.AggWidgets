@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+    <OutputType>WinExe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Submodules\agg-sharp\agg\Agg.csproj" />
+    <ProjectReference Include="..\Submodules\agg-sharp\DataConverters3D\DataConverters3D.csproj" />
+    <ProjectReference Include="..\Submodules\agg-sharp\Gui\Gui.csproj" />
+    <ProjectReference Include="..\Submodules\agg-sharp\PlatformWin32\PlatformWin32.csproj" />
+    <ProjectReference Include="..\Submodules\agg-sharp\VectorMath\VectorMath.csproj" />
+    <ProjectReference Include="..\Submodules\iLeif.Extensions\iLeif.Extensions\iLeif.Extensions.csproj" />
+  </ItemGroup>
+
+</Project>
