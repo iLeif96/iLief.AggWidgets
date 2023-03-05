@@ -1,8 +1,6 @@
-[submodule "Submodules/agg-sharp"]
-	path = Submodules/agg-sharp
-	url = https://github.com/MatterHackers/agg-sharp.git
 [submodule "Submodules/iLeif.Extensions"]
 	path = Submodules/iLeif.Extensions
 	url = https://github.com/iLeif96/iLeif.Extensions.git
-[submodule ".\\Submodules\\agg-sharp\\"]
+[submodule "Submodules/agg-sharp"]
+	path = Submodules/agg-sharp
 	url = https://github.com/iLeifProd/agg-sharp.git
